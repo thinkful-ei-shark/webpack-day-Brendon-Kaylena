@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "webpack-day-Brendon-Kaylena",
   "version": "1.0.0",
   "description": "#### Created for the Thinkful EI Program.",
@@ -7,6 +8,16 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "webpack-dev-server",
     "build": "webpack --mode production"
+=======
+  "name": "shopping-list-webpack-day",
+  "version": "1.0.0",
+  "description": "Please reference the startup instructions within your curriculum.",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server",
+    "build": "webpack --mode production",
+    "test": "echo \"Error: no test specified\" && exit 1"
+>>>>>>> 163bb2e8fd8160e21c615e414abf90d1b40cf429
   },
   "repository": {
     "type": "git",
@@ -31,4 +42,8 @@
     "webpack-cli": "^3.3.12",
     "webpack-dev-server": "^3.11.0"
   }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 163bb2e8fd8160e21c615e414abf90d1b40cf429
